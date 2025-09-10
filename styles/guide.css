@@ -63,8 +63,7 @@ main {
 }
 
 #head {
-    border: 5px;
-    border-color: var(--link-color);
+    border: 5px solid var(--link-color);
     color: var(--dark-color);
     font-family: "questa-sans", sans-serif;
     font-weight: 750;
@@ -75,10 +74,10 @@ main {
     padding: 0%;
 }
 
-#head h3 a {
+/*#head h3 a {
     color: var(--link-color);
     text-decoration: none;
-}
+}*/
 
 .post {
     border: 5px solid var(--link-color);
