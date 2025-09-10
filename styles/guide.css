@@ -51,18 +51,19 @@ h3 {
 }
 
 main {
-    position:relative;
+    position: relative;
     max-width: 1080px;
     margin: 0 auto;
 }
 
 #head {
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
 }
 
 #head h3 a {
-    color: var(--dark-color);
+    color: var(--link-color);
     text-decoration: none;
 }
 
