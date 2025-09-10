@@ -4,11 +4,6 @@
     font-style: normal;
 */
 
-cursor {
-    im
-
-}
-
 :root {
     --background-color: rgb(255, 206, 174);
     --light-color: rgb(48, 127, 149);
@@ -18,6 +13,7 @@ cursor {
 
 body {
     font-optical-sizing: auto;
+    cursor: url(../images/lizardcursor.png), auto;
 }
 
 a {
