@@ -4,6 +4,11 @@
     font-style: normal;
 */
 
+cursor {
+    im
+
+}
+
 :root {
     --background-color: rgb(255, 206, 174);
     --light-color: rgb(48, 127, 149);
@@ -72,12 +77,6 @@ main {
     margin-bottom: 1em;
     padding: .5em 1em;
     background-color: antiquewhite;
-
-    img {
-        width: 100%;
-        height: auto;
-        display: block;
-    }
 
     a {
         color: var(--link-color);
