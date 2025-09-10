@@ -41,8 +41,8 @@ h2 {
     border: 5px;
     border-color: var(--link-color);
     color: var(--dark-color);
-    font-family: "questa-sans", sans-serif;
-    font-weight: 750;
+    font-family: "pinecone-mvb-rough2-wide", sans-serif;
+    font-weight: 900;
     font-style: normal;
     background-color: antiquewhite;
     display: flex;
@@ -65,8 +65,8 @@ main {
 #head {
     border: 5px solid var(--link-color);
     color: var(--dark-color);
-    font-family: "questa-sans", sans-serif;
-    font-weight: 750;
+    font-family: "pinecone-mvb-rough2-wide", sans-serif;
+    font-weight: 900;
     font-style: normal;
     background-color: antiquewhite;
     display: flex;
